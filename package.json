@@ -1,0 +1,27 @@
+{
+  "name": "tiktok-mern-bk",
+  "version": "1.0.0",
+  "description": "TikTok MERN clone ",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Madhuri97/tiktok-mern-bk.git"
+  },
+  "author": "Madhuri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Madhuri97/tiktok-mern-bk/issues"
+  },
+  "homepage": "https://github.com/Madhuri97/tiktok-mern-bk#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mongoose": "^6.0.7",
+    "nodemon": "^2.0.13"
+  }
+}
